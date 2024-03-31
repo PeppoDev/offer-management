@@ -1,4 +1,4 @@
-package com.offer.management.offermanagement.modules.candidate.useCases;
+  package com.offer.management.offermanagement.modules.candidate.useCases;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
