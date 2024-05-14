@@ -14,7 +14,7 @@ import jakarta.validation.Valid;
 
 @RestController
 @RequestMapping("/company")
-public class ComapnyController {
+public class CompanyController {
     @Autowired
     private CreateCompanyUseCase createCompanyUseCase;
 
